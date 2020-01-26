@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dj para Club, Eventos, Casamentos, Cocktail entre outros locais diversificados...
   Terá uma empresa especializada a trabalhar para a sua festa.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dmleventos.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://dmleventos.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
